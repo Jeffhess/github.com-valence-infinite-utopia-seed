@@ -1,5 +1,4 @@
-#### File 2: utopia_seed.py
-```python
+
 import time
 import math
 import numpy as np
